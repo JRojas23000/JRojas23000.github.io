@@ -81,6 +81,10 @@ nav::after{
 h3{
     color: white;
 }
+
+.caja{
+    height: 20px;
+}
 /*cuerpo*/
 
 body{
