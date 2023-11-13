@@ -176,6 +176,8 @@ footer{
 
 .box {
     text-align: center; 
+    background-color: #baa8a8;
+    width: 30%;
 }
 
 .icono {
